@@ -2484,7 +2484,6 @@ public final class Settings {
         public static final String QUICK_SETTINGS_TILES = "quick_settings_tiles";
 
         /**
-
          * Setting to show the battery percentage text
          * @hide
          */
@@ -2502,6 +2501,12 @@ public final class Settings {
          * @hide
          */
         public static final String SAFE_HEADSET_VOLUME = "safe_headset_volume";
+
+        /**
+         * Setting to show determine if AOSP dialer is used
+         * @hide
+         */
+        public static final String AOSP_DIALER = "aosp_dialer";
 
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
