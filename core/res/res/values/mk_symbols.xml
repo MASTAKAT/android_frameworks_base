@@ -29,4 +29,17 @@
   <java-symbol type="string" name="global_action_screenshot" />
   <java-symbol type="string" name="reboot_confirm" />
   <java-symbol type="string" name="reboot_progress" />
+<<<<<<< HEAD:core/res/res/values/mk_symbols.xml
+=======
+
+  <!--Notification led-->
+  <java-symbol type="array" name="notification_light_package_mapping" />
+
+  <!--Setting confirmation dialog-->
+  <java-symbol type="id" name="setting_confirmation_dialog_visual_hint" />
+  <java-symbol type="layout" name="setting_confirmation_dialog" />
+  <java-symbol type="string" name="setting_confirmation_ask_me_later" />
+  <java-symbol type="string" name="setting_confirmation_yes" />
+  <java-symbol type="string" name="setting_confirmation_no" />
+>>>>>>> 177a89d... [1/2] Frameworks: Add in-the-spot user preference dialog:core/res/res/values/pa_symbols.xml
 </resources>
