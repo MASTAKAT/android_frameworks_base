@@ -516,7 +516,7 @@ class QuickSettings {
                     wifiTile.setBackOnClickListener(new View.OnClickListener() {
                         @Override
                         public void onClick(View v) {
-                            mModel.toggleWifiApState(wifiTile);
+                            mModel.toggleWifiApState();
                         }
                     });
                     wifiTile.setBackOnLongClickListener(new View.OnLongClickListener() {
